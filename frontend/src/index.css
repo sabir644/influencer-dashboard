@@ -1,0 +1,10 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom fonts or other global styles here */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif; /* Recommended font or any other sans-serif */
+}
