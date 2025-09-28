@@ -8,7 +8,7 @@
     "postsCount": 1038,
     "bioDetails": {
       "country": "India",
-      "age": 36,
+      "age": 35,
       "maritalStatus": "Married",
       "occupation": "Professional Cricketer",
       "team": "Team India / RCB",
@@ -17,22 +17,9 @@
   },
   "analytics": {
     "audienceDemographics": {
-      "genderSplit": {
-        "male": 75,
-        "female": 25
-      },
-      "ageGroups": {
-        "13-17": 15,
-        "18-24": 55,
-        "25-34": 25,
-        "35+": 5
-      },
-      "geography": {
-        "India": 60,
-        "USA": 8,
-        "UK": 5,
-        "Australia": 4
-      }
+      "genderSplit": { "male": 75, "female": 25 },
+      "ageGroups": { "13-17": 15, "18-24": 55, "25-34": 25, "35+": 5 },
+      "geography": { "India": 60, "USA": 8, "UK": 5, "Australia": 4 }
     }
   },
   "posts": [
@@ -42,58 +29,23 @@
       "caption": "Been a minute 🏏",
       "likes": 7195417,
       "comments": 38286,
-      "analysis": {
-        "tags": [
-          "casual",
-          "love",
-          "couple"
-        ],
-        "vibe": "Casual",
-        "quality": {
-          "lighting": 9,
-          "visualAppeal": 9
-        }
-      }
+      "analysis": { "tags": ["casual", "love", "couple", "romance", "portrait"], "vibe": "Casual", "quality": { "lighting": 9, "visualAppeal": 9 } }
     },
     {
       "id": "post2",
       "imageUrl": "post2.png",
-      "caption": "This team made the dream possible, a season I'll never ever forget. We've thoroughly enjoyed the ride over the last 2.5 months. This one is for the fans of rcb who never ever left our side in the worst of times. This one is for all the years of heartbreaks and disappointment. This is for every inch of effort left on the field playing for this team. As far as the ipl trophy is concerned- you've made me wait 18 years to be able to lift you my friend, but it's been absolutely worth the wait. ❤️🏆",
+      "caption": "This team made the dream possible...",
       "likes": 20705885,
       "comments": 120000,
-      "analysis": {
-        "tags": [
-          "cricket",
-          "ipl",
-          "champions",
-          "rcb"
-        ],
-        "vibe": "Energetic",
-        "quality": {
-          "lighting": 10,
-          "visualAppeal": 10
-        }
-      }
+      "analysis": { "tags": ["team", "celebration", "stadium", "sport", "championship"], "vibe": "Energetic", "quality": { "lighting": 10, "visualAppeal": 10 } }
     },
     {
       "id": "post3",
       "imageUrl": "post3.png",
-      "caption": "I've seen it for 18 years and she's seen it for 11. Suffered the same moments since 2014 and celebrated every close win and the madness of our supporters at the Chinnaswamy. We're both equally relieved and since she's a bangalore girl too this is far more special for her. Together all the way through ❤️",
+      "caption": "I've seen it for 18 years and she's seen it for 11...",
       "likes": 19530019,
       "comments": 95000,
-      "analysis": {
-        "tags": [
-          "love",
-          "family",
-          "cricket",
-          "support"
-        ],
-        "vibe": "Casual",
-        "quality": {
-          "lighting": 8,
-          "visualAppeal": 9
-        }
-      }
+      "analysis": { "tags": ["love", "couple", "support", "sport", "celebration"], "vibe": "Casual", "quality": { "lighting": 8, "visualAppeal": 9 } }
     },
     {
       "id": "post4",
@@ -101,78 +53,31 @@
       "caption": "At a loss for words. Absolutely gutted 💔",
       "likes": 7222123,
       "comments": 45000,
-      "analysis": {
-        "tags": [
-          "cricket",
-          "rcb",
-          "ipl"
-        ],
-        "vibe": "Professional",
-        "quality": {
-          "lighting": 8,
-          "visualAppeal": 7
-        }
-      }
+      "analysis": { "tags": ["statement", "official", "text", "announcement", "team"], "vibe": "Professional", "quality": { "lighting": 8, "visualAppeal": 7 } }
     },
     {
       "id": "post5",
       "imageUrl": "post5.png",
-      "caption": "He taught me to never rely on shortcuts or influence — because if you truly have it in you, hard work will show it. And if you don't have the will to work for it, then maybe you don't deserve it yet...",
+      "caption": "He taught me to never rely on shortcuts or influence...",
       "likes": 13016237,
       "comments": 75000,
-      "analysis": {
-        "tags": [
-          "family",
-          "father",
-          "motivation",
-          "life"
-        ],
-        "vibe": "Casual",
-        "quality": {
-          "lighting": 7,
-          "visualAppeal": 8
-        }
-      }
+      "analysis": { "tags": ["family", "father", "throwback", "vintage", "child"], "vibe": "Casual", "quality": { "lighting": 7, "visualAppeal": 8 } }
     },
     {
       "id": "post6",
       "imageUrl": "post6.png",
-      "caption": "They'll talk about the records and the milestones — but I'll remember the tears you never showed, the battles no one saw, and the unwavering love you gave this format of the game...",
+      "caption": "They'll talk about the records and the milestones...",
       "likes": 16457885,
       "comments": 5772636,
-      "analysis": {
-        "tags": [
-          "cricket",
-          "love",
-          "support",
-          "family"
-        ],
-        "vibe": "Professional",
-        "quality": {
-          "lighting": 8,
-          "visualAppeal": 9
-        }
-      }
+      "analysis": { "tags": ["couple", "love", "stadium", "sport", "cricket"], "vibe": "Professional", "quality": { "lighting": 8, "visualAppeal": 9 } }
     },
     {
       "id": "post7",
       "imageUrl": "post7.png",
-      "caption": "It's been 14 years since I first wore the baggy blue in Test cricket. Honestly, I never imagined the journey this format would take me on. It's tested me, shaped me, and taught me lessons I'll carry for life...",
+      "caption": "It's been 14 years since I first wore the baggy blue...",
       "likes": 20202419,
       "comments": 78252,
-      "analysis": {
-        "tags": [
-          "cricket",
-          "testcricket",
-          "career",
-          "gratitude"
-        ],
-        "vibe": "Professional",
-        "quality": {
-          "lighting": 9,
-          "visualAppeal": 10
-        }
-      }
+      "analysis": { "tags": ["cricket", "testcricket", "career", "gratitude"], "vibe": "Professional", "quality": { "lighting": 9, "visualAppeal": 10 } }
     },
     {
       "id": "post8",
@@ -180,156 +85,76 @@
       "caption": "Happy mothers day to all the mothers of the world. ❤️",
       "likes": 13084202,
       "comments": 45000,
-      "analysis": {
-        "tags": [
-          "family",
-          "mother",
-          "love"
-        ],
-        "vibe": "Casual",
-        "quality": {
-          "lighting": 7,
-          "visualAppeal": 8
-        }
-      }
+      "analysis": { "tags": ["family", "mother", "throwback", "child", "love"], "vibe": "Casual", "quality": { "lighting": 7, "visualAppeal": 8 } }
     },
     {
       "id": "post9",
       "imageUrl": "post9.png",
-      "caption": "To my best friend, my life partner, my safe space, my best half, my everything. You're the guiding light of all of our lives. We love you so much more everyday. Happy birthday my love ❤️",
+      "caption": "To my best friend, my life partner, my safe space...",
       "likes": 20194963,
       "comments": 80000,
-      "analysis": {
-        "tags": [
-          "love",
-          "family",
-          "birthday"
-        ],
-        "vibe": "Casual",
-        "quality": {
-          "lighting": 8,
-          "visualAppeal": 9
-        }
-      }
+      "analysis": { "tags": ["love", "couple", "romance", "birthday", "outdoors"], "vibe": "Casual", "quality": { "lighting": 8, "visualAppeal": 9 } }
     },
     {
       "id": "post10",
       "imageUrl": "post10.png",
-      "caption": "The constant hustle. 💯",
-      "likes": 4500000,
-      "comments": 35000,
-      "analysis": {
-        "tags": [
-          "fitness",
-          "training",
-          "motivation"
-        ],
-        "vibe": "Energetic",
-        "quality": {
-          "lighting": 8,
-          "visualAppeal": 8
-        }
-      }
+      "caption": "What a great honour meeting our honourable prime minister...",
+      "likes": 15647555,
+      "comments": 60000,
+      "analysis": { "tags": ["team", "politics", "event", "group", "official"], "vibe": "Professional", "quality": { "lighting": 8, "visualAppeal": 8 } }
     }
   ],
   "reels": [
     {
       "id": "reel1",
       "thumbnailUrl": "reel1.png",
-      "caption": "Perfection.",
+      "videoUrl": "reel1.mp4",
+      "caption": "Precision in every stroke. Perfection in every detail. When you want the best, you don’t settle for anything less.",
       "views": 26200000,
       "likes": 2800000,
       "comments": 32000,
-      "analysis": {
-        "tags": [
-          "style",
-          "grooming",
-          "ad"
-        ],
-        "vibe": "Professional",
-        "events": [
-          "product showcase"
-        ]
-      }
+      "analysis": { "tags": ["ad", "grooming", "precision", "style", "perfection"], "vibe": "Professional", "events": ["product showcase"] }
     },
     {
       "id": "reel2",
       "thumbnailUrl": "reel2.png",
-      "caption": "LOWER PAREL NOW SERVING",
+      "videoUrl": "reel2.mp4",
+      "caption": "Mumbai, we’re back. Lower Parel, you asked and we listened...",
       "views": 42600000,
       "likes": 4100000,
       "comments": 45000,
-      "analysis": {
-        "tags": [
-          "lifestyle",
-          "event",
-          "ad"
-        ],
-        "vibe": "Luxury",
-        "events": [
-          "store opening",
-          "city nightlife"
-        ]
-      }
+      "analysis": { "tags": ["mumbai", "restaurant", "one8commune", "food", "lifestyle"], "vibe": "Luxury", "events": ["store opening", "city nightlife"] }
     },
     {
       "id": "reel3",
       "thumbnailUrl": "reel3.png",
-      "caption": "A beautiful day in a beautiful place.",
+      "videoUrl": "reel3.mp4",
+      "caption": "From quaint bonfires to spontaneous moments by the beach, join Virat and I as we share highlights of our most memorable Dubai holiday...",
       "views": 67000000,
       "likes": 7500000,
       "comments": 82000,
-      "analysis": {
-        "tags": [
-          "travel",
-          "family",
-          "vacation"
-        ],
-        "vibe": "Casual",
-        "events": [
-          "sightseeing",
-          "couple"
-        ]
-      }
+      "analysis": { "tags": ["dubai", "travel", "holiday", "couple", "vacation"], "vibe": "Casual", "events": ["sightseeing", "couple"] }
     },
     {
       "id": "reel4",
       "thumbnailUrl": "reel4.png",
-      "caption": "A glimpse of the new collection.",
+      "videoUrl": "reel4.mp4",
+      "caption": "Another one—but this isn’t just any new spot. This time, we’re right in the heart of Gurgaon’s most happening hub!...",
       "views": 24600000,
       "likes": 2900000,
       "comments": 25000,
-      "analysis": {
-        "tags": [
-          "fashion",
-          "style",
-          "ad"
-        ],
-        "vibe": "Aesthetic",
-        "events": [
-          "photoshoot"
-        ]
-      }
+      "analysis": { "tags": ["gurgaon", "one8commune", "restaurant", "newopening", "foodie"], "vibe": "Energetic", "events": ["photoshoot"] }
     },
     {
       "id": "reel5",
       "thumbnailUrl": "reel5.png",
-      "caption": "Always smiling.",
+      "videoUrl": "reel5.mp4",
+      "caption": "Walls that can handle anything? That’s my kind of home. 💪",
       "views": 36800000,
       "likes": 4200000,
       "comments": 39000,
-      "analysis": {
-        "tags": [
-          "lifestyle",
-          "positivevibes",
-          "casual"
-        ],
-        "vibe": "Casual",
-        "events": [
-          "portrait",
-          "candid"
-        ]
-      }
+      "analysis": { "tags": ["ad", "asianpaints", "home", "interiordesign", "family"], "vibe": "Casual", "events": ["portrait", "candid"] }
     }
   ]
 }
+
