@@ -24,6 +24,7 @@ const PostSchema = new mongoose.Schema({
 const ReelSchema = new mongoose.Schema({
   id: String,
   thumbnailUrl: String,
+  videoUrl: String,
   caption: String,
   views: Number,
   likes: Number,
@@ -44,14 +45,14 @@ const InfluencerSchema = new mongoose.Schema({
     followers: Number,
     following: Number,
     postsCount: Number,
-    // --- THIS IS THE REQUIRED CHANGE ---
-    // Add the bioDetails object to match our data structure
+    // --- THIS IS THE CORRECTLY ADDED SECTION ---
     bioDetails: {
       country: String,
       age: Number,
       maritalStatus: String,
       occupation: String,
       team: String,
+      bio: String,
     }
   },
   analytics: {
@@ -63,14 +64,15 @@ const InfluencerSchema = new mongoose.Schema({
         '25-34': Number,
         '35+': Number,
       },
-      geography: Map, // Using a Map for flexible key-value pairs
+      geography: Map,
     },
   },
   posts: [PostSchema],
   reels: [ReelSchema],
-}, { timestamps: true }); // Adds createdAt and updatedAt timestamps
+}, { timestamps: true });
 
 const Influencer = mongoose.model('Influencer', InfluencerSchema);
 
 module.exports = Influencer;
+
 
